@@ -1,2 +1,2 @@
-# HTML-PRACTICE
-HTML practice assignments and practice questions 
+# HTML & CSS Assignment 
+HTML & CSS practice assignments 
